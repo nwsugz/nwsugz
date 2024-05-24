@@ -1,5 +1,7 @@
 ### Hi there 👋
 ### I am Hyunju Kim. Majored computer science at Hanyang University Erica.
+### Visit my develop blog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nwsugz&color=dark)](https://velog.io/@nwsugz)
 
 <a href="mailto:mollykelly77@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mollykelly77@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
