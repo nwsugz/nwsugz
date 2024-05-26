@@ -1,6 +1,5 @@
 ### Hi there 👋
-### I am Hyunju Kim. 
-### Majored computer science at Hanyang University Erica.
+### I am Hyunju Kim. Majored computer science at Hanyang University Erica.
 ### Visit my Develop blog : [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nwsugz&color=dark)](https://velog.io/@nwsugz)
 
 <a href="mailto:mollykelly77@gmail.com">
