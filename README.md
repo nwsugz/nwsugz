@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Hyunju Kim. Majored computer science at Hanyang University Erica.
+### I am Hyunju Kim. Majored computer science at Hanyang University ERICA campus.
 ### Visit my Develop blog : https://velog.io/@nwsugz/posts
 
 <a href="mailto:mollykelly77@gmail.com">
